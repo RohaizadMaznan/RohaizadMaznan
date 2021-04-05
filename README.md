@@ -1,7 +1,5 @@
 ### Hi there, I'm Rohaizad 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.youtube.com/channel/UCDO3IovkAAmxlQF6srdp3vg)
-
 - 🔭 See my behance portfolio for UI/UX: [My Behance Profile][behance]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
