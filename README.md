@@ -56,11 +56,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-2. 🗣 Commented on [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-3. 🗣 Commented on [#7](https://github.com/codeSTACKr/free-developer-resources/issues/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🎉 Merged PR [#7](https://github.com/codeSTACKr/free-developer-resources/pull/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🗣 Commented on [#3](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/3) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+1. 🎉 Commit [#6](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [RohaizadMaznan/KitaShare-nextjs ](https://github.com/RohaizadMaznan/KitaShare-nextjs)
+2. 🎉 Commented on [#3](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [RohaizadMaznan/react-redux-app ](https://github.com/RohaizadMaznan/react-redux-app)
+3. 🎉 Commented on [#3](https://github.com/codeSTACKr/free-developer-resources/issues/7) in [RohaizadMaznan/quiz-app](https://github.com/RohaizadMaznan/quiz-app)
+4. 🎉 Merged PR [#2](https://github.com/codeSTACKr/free-developer-resources/pull/7) in [RohaizadMaznan/react-tictactoe](https://github.com/RohaizadMaznan/react-tictactoe)
+5. 🎉 Commented on [#1](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/3) in [RohaizadMaznan/music_controller](https://github.com/RohaizadMaznan/music_controller)
 <!--END_SECTION:activity-->
 
 </details>
