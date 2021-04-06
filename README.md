@@ -58,7 +58,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Commited [#6](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [RohaizadMaznan/KitaShare-nextjs ](https://github.com/RohaizadMaznan/KitaShare-nextjs)
+1. 🎉 Commited on [#6](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [RohaizadMaznan/KitaShare-nextjs ](https://github.com/RohaizadMaznan/KitaShare-nextjs)
 2. 🎉 Commited on [#3](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [RohaizadMaznan/react-redux-app ](https://github.com/RohaizadMaznan/react-redux-app)
 3. 🎉 Commited on [#3](https://github.com/codeSTACKr/free-developer-resources/issues/7) in [RohaizadMaznan/quiz-app](https://github.com/RohaizadMaznan/quiz-app)
 4. 🎉 Commited on [#2](https://github.com/codeSTACKr/free-developer-resources/pull/7) in [RohaizadMaznan/react-tictactoe](https://github.com/RohaizadMaznan/react-tictactoe)
