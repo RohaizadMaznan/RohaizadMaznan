@@ -74,6 +74,8 @@
 
 </details>
 
+<a href="https://app.daily.dev/RohaizadMaznan"><img src="https://api.daily.dev/devcards/f1e9205c58be4e77ad8ee15339187e8c.png?r=vt4" width="250" alt="Rohaizad Maznan's Dev Card"/></a>
+
 [behance]: https://www.behance.net/rohaizadmaznan
 [youtube]: https://www.youtube.com/channel/UCDO3IovkAAmxlQF6srdp3vg
 [instagram]: https://instagram.com/rohaizadmaznan
