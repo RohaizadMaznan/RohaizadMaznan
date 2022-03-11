@@ -70,7 +70,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Rohaizad MAznan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=RohaizadMaznan&show_icons=true&hide_border=true" />
+  <img align="left" alt="Rohaizad Maznan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RohaizadMaznan&show_icons=true&hide_border=true" />
 
 </details>
 
