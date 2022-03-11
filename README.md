@@ -1,3 +1,5 @@
+![Profile View Counter](https://komarev.com/ghpvc/?username=RohaizadMaznan)
+
 ### Hi there, I'm Rohaizad 👋
 
 - 🔭 See my behance portfolio for UI/UX: [My Behance Profile][behance]!
@@ -5,8 +7,6 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=RohaizadMaznan)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RohaizadMaznan&theme=blue-green)
 
