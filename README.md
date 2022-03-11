@@ -6,6 +6,8 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=RohaizadMaznan)
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RohaizadMaznan&theme=blue-green)
 
 ### Connect with me:
