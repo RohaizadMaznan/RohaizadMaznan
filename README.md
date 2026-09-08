@@ -1,86 +1,87 @@
-![Profile View Counter](https://komarev.com/ghpvc/?username=RohaizadMaznan)
+<div align="center">
 
-### Hi there, I'm Rohaizad 👋
+# Hi, I'm Rohaizad Maznan 👋
 
-- 🔭 See my behance portfolio for UI/UX: [My Behance Profile][behance]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to travel
+**Frontend-leaning Full-Stack Engineer** · React · Next.js · TypeScript · ASP.NET Core
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RohaizadMaznan&theme=blue-green)
+📍 Johor Bahru, Malaysia &nbsp;·&nbsp; 💼 Building smart-manufacturing web apps @ [Blue Ocean Data Solutions](https://blueoceands.com/) &nbsp;·&nbsp; 🚀 Founder @ [Seratus Pro](https://seratuspro.com) &nbsp;·&nbsp; 🌐 [rohaizadmaznan.com](https://www.rohaizadmaznan.com/)
 
-### Connect with me:
+![Profile View Counter](https://komarev.com/ghpvc/?username=RohaizadMaznan&color=blue&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)][linkedin]
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)][youtube]
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)][instagram]
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)][behance]
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][youtube]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][youtube]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][youtube]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][youtube]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][youtube]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][youtube]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][youtube]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][youtube]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][youtube]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][youtube]
-[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][youtube]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][youtube]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][youtube]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][youtube]
-[<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][youtube]
-[<img align="left" alt="Express JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][youtube]
-
-
-<br />
-<br />
+</div>
 
 ---
 
-### 📺 Latest Youtube Videos
+### 🔭 What I'm doing
+
+- Building **CMMS** and **MES** manufacturing platforms (Next.js + ASP.NET Core, EF Core, DDD) for Blue Ocean Data Solutions
+- Founder of [**Seratus Pro**](https://seratuspro.com) — all-in-one POS, CRM & business platform
+- Shipping React/Next.js products with TypeScript, Node.js, and OpenAI-powered features
+- Occasionally freelancing — Next.js web apps, WordPress builds, and UI/UX for small businesses
+- Posting web-dev tutorials on YouTube in my spare time
+
+### 🛠️ Languages & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![C%23](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RohaizadMaznan&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohaizadMaznan&layout=compact&hide_border=true&theme=tokyonight" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohaizadMaznan&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+</details>
+
+---
+
+### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-POST-LIST:START -->
-- [Cara membeli domain dan hosting di Hostinger](https://www.youtube.com/watch?v=--oxmDD3u2I&t=14s)
-- [Installing Bootstrap 5 using CDN - Easiest & Fastest Method!](https://www.youtube.com/watch?v=Bp8Uoc39zJY&t=29s)
-- [🔴 Start Your Web Design Now by Using Bootstrap 4 - HTML Only Tutorial](https://www.youtube.com/watch?v=Qb0vvsnO3NY&t=3617s)
-- [What is Bootstrap? Quick explaination](https://www.youtube.com/watch?v=L6GRYTN5hoA&t=1s)
-- [How to Insert, Update, Delete in mysql phpmyadmin Database using localhost](https://www.youtube.com/watch?v=F9M9NKY9el0)
 <!-- YOUTUBE-POST-LIST:END -->
 
-➡️ [more youtube videos...](https://www.youtube.com/channel/UCDO3IovkAAmxlQF6srdp3vg)
+➡️ [More on my channel...][youtube]
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🎉 Commited on [#6](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [RohaizadMaznan/KitaShare-nextjs ](https://github.com/RohaizadMaznan/KitaShare-nextjs)
-2. 🎉 Commited on [#3](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [RohaizadMaznan/react-redux-app ](https://github.com/RohaizadMaznan/react-redux-app)
-3. 🎉 Commited on [#3](https://github.com/codeSTACKr/free-developer-resources/issues/7) in [RohaizadMaznan/quiz-app](https://github.com/RohaizadMaznan/quiz-app)
-4. 🎉 Commited on [#2](https://github.com/codeSTACKr/free-developer-resources/pull/7) in [RohaizadMaznan/react-tictactoe](https://github.com/RohaizadMaznan/react-tictactoe)
-5. 🎉 Commited on [#1](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/3) in [RohaizadMaznan/music_controller](https://github.com/RohaizadMaznan/music_controller)
-<!--END_SECTION:activity-->
+<div align="center">
 
-</details>
+📫 Reach me at **rohaizadmaznan@gmail.com** — open to freelance Next.js / React work.
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Rohaizad Maznan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RohaizadMaznan&show_icons=true&hide_border=true" />
-
-</details>
-
-<a href="https://app.daily.dev/RohaizadMaznan"><img src="https://api.daily.dev/devcards/f1e9205c58be4e77ad8ee15339187e8c.png?r=vt4" width="250" alt="Rohaizad Maznan's Dev Card"/></a>
+</div>
 
 [behance]: https://www.behance.net/rohaizadmaznan
 [youtube]: https://www.youtube.com/channel/UCDO3IovkAAmxlQF6srdp3vg
 [instagram]: https://instagram.com/rohaizadmaznan
 [linkedin]: https://www.linkedin.com/in/rohaizadmaznan/
+</content>
+</invoke>
