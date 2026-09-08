@@ -4,7 +4,7 @@
 
 **Frontend-leaning Full-Stack Engineer** · React · Next.js · TypeScript · ASP.NET Core
 
-📍 Johor Bahru, Malaysia &nbsp;·&nbsp; 💼 Building smart-manufacturing web apps @ [Blue Ocean Data Solutions](https://blueoceands.com/) &nbsp;·&nbsp; 🚀 Founder @ [Seratus Pro](https://seratuspro.com) &nbsp;·&nbsp; 🌐 [rohaizadmaznan.com](https://www.rohaizadmaznan.com/)
+📍 Johor Bahru, Malaysia &nbsp;·&nbsp; 💼 Building smart-manufacturing web apps &nbsp;·&nbsp; 🚀 Founder @ [Seratus Pro](https://seratuspro.com) &nbsp;·&nbsp; 🌐 [rohaizadmaznan.com](https://www.rohaizadmaznan.com/)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=RohaizadMaznan&color=blue&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)][linkedin]
@@ -18,7 +18,7 @@
 
 ### 🔭 What I'm doing
 
-- Building **CMMS** and **MES** manufacturing platforms (Next.js + ASP.NET Core, EF Core, DDD) for Blue Ocean Data Solutions
+- Building **CMMS** and **MES** manufacturing platforms (Next.js + ASP.NET Core, EF Core, DDD)
 - Founder of [**Seratus Pro**](https://seratuspro.com) — all-in-one POS, CRM & business platform
 - Shipping React/Next.js products with TypeScript, Node.js, and OpenAI-powered features
 - Occasionally freelancing — Next.js web apps, WordPress builds, and UI/UX for small businesses
